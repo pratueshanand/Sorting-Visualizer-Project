@@ -6,15 +6,16 @@ Hey there! Welcome! This is a sorting visualizer. I wanted to visualize sorting 
 2. Significantly improved users' problem-solving skills and understanding of data structures and algorithms through intuitive visualization.
 3. Created an accessible platform that expedites the learning curve, making DSA education seamless and engaging for all.
 
-> ## details
+## Stack: 
+    - VanillaJS 
+    - HTML 
+    - CSS
 
-- Stack: VanillaJS, HTML, CSS
-
-    # Algorithms:
-    - Bubble Sort,
-    - Insertion Sort,
-    - Merge Sort,
-    - Quick Sort.
+## Algorithms:
+    - Bubble Sort
+    - Insertion Sort
+    - Merge Sort
+    - Quick Sort
 
 > ## Install locally
 
