@@ -11,7 +11,11 @@ Hey there! Welcome! This is a sorting visualizer. I wanted to visualize sorting 
 
 - Stack: VanillaJS, HTML, CSS
 
-- Algorithms: Bubble Sort, Insertion Sort, Merge Sort, Quick Sort.
+# Algorithms:
+- Bubble Sort,
+- Insertion Sort,
+- Merge Sort,
+- Quick Sort.
 
 > ## Install locally
 
